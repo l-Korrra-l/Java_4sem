@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsp_getpost_cookie:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jsp_getpost_cookie</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jsp_getpost_cookie-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jsp_getpost_cookie:war exploded" />
+    </root>
+  </artifact>
+</component>
